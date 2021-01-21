@@ -1,0 +1,3 @@
+[submodule "Notifier"]
+	path = Notifier
+	url = https://github.com/kaushalraykar/Notifier
